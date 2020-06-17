@@ -1,0 +1,19 @@
+{
+  "name": "daily_nodejs",
+  "version": "1.0.0",
+  "description": "Learn NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ying Tee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.19",
+    "node": "^14.4.0",
+    "nodemon": "^2.0.4",
+    "underscore": "^1.10.2"
+  },
+  "devDependencies": {}
+}
